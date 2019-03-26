@@ -1,0 +1,48 @@
+   body {
+        background:#dfdfdf;
+       font-family:Helvetica;
+       background-image: url()
+       
+    }
+
+.navbar {
+    background: inherit;
+    
+}
+
+.button {
+    font-size:100%;
+    font-family: inherit;
+    border: 0;
+    padding: 0;
+    background: inherit;
+    
+}
+
+.mainbody {
+    background:#4a5256;
+    border-style: solid;
+    border-width:thick;
+    color:#dfdfdf;
+    margin-bottom: auto;
+    font-family:inherit
+}
+
+.subheading {
+    color: #dfdfdf;
+    font-family: inherit;
+    
+    
+}
+.phototable {
+    background-color: black;
+    resize: vertical;
+    padding: 25px;
+    
+}
+
+.footer {
+    background:#696866;
+    padding:20px;
+    color:inherit
+}
