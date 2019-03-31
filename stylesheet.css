@@ -42,7 +42,7 @@
 }
 
 .footer {
-    background:#696866;
+    background:inherit;
     padding:20px;
     color:inherit
 }
